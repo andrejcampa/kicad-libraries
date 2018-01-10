@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ESP M modules)(type Legacy)(uri https://github.com/andrejcampa/kicad-libraries/esp-m1&m2.lib)(options "")(descr "ESP-M modules"))
+)
