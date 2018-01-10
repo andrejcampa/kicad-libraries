@@ -1,0 +1,5 @@
+(fp_lib_table
+
+ (lib (name "ESP-M")(type Github)(uri https://github.com/andrejcampa/kicad-libraries/ESP-M.pretty)(options "")(descr "ESP-M modules"))
+
+)
